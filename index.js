@@ -96,7 +96,7 @@ module.exports = {
             logout: 'Logg ut',
         },
         notification: {
-            updated: 'Element oppdagert |||| %{smart_count} elementer oppdatert',
+            updated: 'Element oppdatert |||| %{smart_count} elementer oppdatert',
             created: 'Element opprettet',
             deleted: 'Element slettet |||| %{smart_count} elementer slettet',
             bad_item: 'Feil element',
